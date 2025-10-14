@@ -1,0 +1,15 @@
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# mcp
+mcp.json
+
+# Environment variables
+.env
+.env.local
+
+# System Files
+.DS_Store
+Thumbs.db
